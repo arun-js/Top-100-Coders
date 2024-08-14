@@ -20,7 +20,7 @@ Coordinator Mar Baselios TBI
 My primary goal is to connect with top coders, and that's why I aim to participate in the top 100 coders' community.
 #### As a Top 100 Member: 
 
-- I have a passion for coding, and I see this as a valuable opportunity to enhance my coding skills. The experience gained from this endeavor will enable me to better mentor and guide my students in their own coding journeys.
+- I have a passion for coding, and I see this as a valuable opportunity to enhance my coding skills. The experience gained from this endeavor will enable me to better mentor and guide my students in their coding journeys.
 #### Career Plan: 
 - The startup ecosystem in Kerala is encountering difficulties in attracting skilled technical professionals. My plan is to help students improve their technical skills, thereby offering technical support to the ecosystem. I also intend to remain actively involved within the ecosystem.
 #### Thoughts on Kerala's Tech Ecosystem: 
@@ -36,6 +36,7 @@ Kerala's Startup ecosystem has flourished and grown immensely after the inceptio
 
 
 ####
+My µLearn Profile: https://app.mulearn.org/profile/arunjs@mulearn
 
 LinkedIn : https://www.linkedin.com/in/mearunjs/
 ---
